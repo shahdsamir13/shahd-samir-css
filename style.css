@@ -1,0 +1,45 @@
+.container{
+    max-width: 25%;
+
+}
+.pg-red{
+    color: #5e9dbc;
+    padding: 10px;
+    text-align: right;
+}
+.body {
+    
+    background-color: #84e3d9;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.head-sec img {
+      max-height: 30px;
+    }
+ 
+.profilo-card{
+    background-color: #901010;
+    border-radius: 18px;
+    max-width: 688px;
+    margin: 58px auto;
+    padding: 28px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+}
+
+.profilo-card{
+    border-radius: 58;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 8 auto 28px;
+
+}
+.profilo-card h1{
+    font-size: 24px;
+    margin: 8;
+    text-align: center;
+
+}
